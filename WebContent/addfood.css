@@ -1,0 +1,28 @@
+body
+{
+
+text-align: center;
+/* opacity: 1; */
+}
+
+div
+{
+	/* display: inline-block; */
+	text-align: left;
+}
+caption
+{
+	font-size: 30px;
+	font-family: algerian;
+
+}
+ table{
+
+	/* background: #ffffff; */
+	/* display: inline-block; */
+}
+#yo{
+
+	font-weight: bold;
+	opacity: 1;
+}
