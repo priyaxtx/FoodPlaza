@@ -4,7 +4,6 @@ import java.util.ArrayList;
 
 import com.foodpla.pojo.Cart;
 
-
 public interface CartDao 
 {
 boolean AddCart(Cart ct);
