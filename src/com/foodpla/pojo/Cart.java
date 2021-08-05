@@ -5,6 +5,8 @@ public class Cart
 private String email_id,foodname,addons;
 private int cartid,quantity,totalprice;
 private long foodid;
+
+
 public String getEmail_id() {
 	return email_id;
 }

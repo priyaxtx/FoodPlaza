@@ -16,7 +16,8 @@ public class OrderImpl implements OrderDao
 	{
 	Connection cn = DBUtility.getconnection();
 	String query = "select address from Customer where email_id = ?";
-	String add = "";int tprice = 0 ;
+	String add = "";
+	int tprice = 0 ;
 	Order21020 o = new Order21020();
 	String datetime = new Date().toString();
 	PreparedStatement prp =null;
