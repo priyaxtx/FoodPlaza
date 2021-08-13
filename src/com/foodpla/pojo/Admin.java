@@ -2,6 +2,7 @@ package com.foodpla.pojo;
 
 public class Admin 
 {
+	
 private String adminid,adminpassword;
 
 public String getAdminid() {
