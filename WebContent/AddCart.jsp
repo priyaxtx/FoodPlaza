@@ -242,7 +242,7 @@ int foodid = (int)session.getAttribute("foodid");
 				<h3>FoodPlaza</h3>
 				<p>Copyright © FoodPlaza Restaurant and Cafe 
                 
-                | Design: <a rel="nofollow" href="http://www.github.com/parateaksh" target="_parent">Priya and anita</a></p>
+                | Design: <a rel="nofollow" href="http://www.github.com/parateaksh" target="_parent">Priya and Anita</a></p>
 			</div>
 		</div>
 	</div>

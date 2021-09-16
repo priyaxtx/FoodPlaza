@@ -66,8 +66,8 @@
     }
     </style>
     <body>
-    
-<%  
+   
+   <%  
    String admin = (String)session.getAttribute("admin");
 %> 
 
