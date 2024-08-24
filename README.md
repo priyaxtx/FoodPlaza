@@ -1,4 +1,4 @@
-#FoodPlaza//Food Ordering System
+# FoodPlaza: Food Ordering System
 
 
 A food plaza is an online food order system that allows users to check for various food available at the online site and can easily order food online. 
